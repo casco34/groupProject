@@ -18,14 +18,14 @@
   }
 
   .fa {
-    padding: 10px;
-    font-size: 10px;
-    width: 50%;
+    padding: 20px;
+    font-size: 150px;
+    width: 23%;
     text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-    margin-left: auto;
-    margin-right: auto;
+    text-decoration: center;
+    margin: 15px 2px;
+    align-content: center;
+
   }
   
   .fa:hover {
